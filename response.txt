@@ -1,0 +1,11 @@
+Hi there! I see you're studying Automata in your Theory of Computation (TOC) course. 
+
+So, you asked about "What is Automara"? Well, it seems like you meant to ask about "Automata". Don't worry, we've all been there!
+
+In the context of TOC, an automaton is a mathematical model that represents a language. It's essentially a machine that can recognize or generate patterns in data.
+
+Let me guide you through where this concept is introduced in your course. The topic of Automata is covered in Lec-3 (video number 3) of your TOC course. You'll find the explanation for what an automaton is, along with some examples and clarification on its significance in language recognition.
+
+To watch the video, start playing from timestamp 239.6 seconds into Lec-3 (video 3). This is where you'll learn more about Automata and how it relates to TOC.
+
+If you have any further questions or need help understanding Automata, feel free to ask!

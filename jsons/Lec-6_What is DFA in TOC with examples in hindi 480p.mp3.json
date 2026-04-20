@@ -1,0 +1,2203 @@
+{
+  "chunks": [
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 0.0,
+      "end": 2.8000000000000003,
+      "text": " Hello friends, welcome to Gate Smashers."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 2.82,
+      "end": 7.5,
+      "text": " In this video I am going to explain DFA i.e. Deterministic Finite Automata"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 7.5200000000000005,
+      "end": 10.16,
+      "text": " and I am going to discuss all the important points related to it"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 10.18,
+      "end": 11.64,
+      "text": " which will be very beneficial for your competitive exams,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 11.66,
+      "end": 15.8,
+      "text": " even for your college or university level exams."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 15.82,
+      "end": 20.16,
+      "text": " So guys quickly like the video, subscribe to the channel if you haven't done it yet"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 20.18,
+      "end": 23.96,
+      "text": " and please press the bell button so that you get all the latest notifications."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 23.98,
+      "end": 28.92,
+      "text": " So let's start DFA i.e. Deterministic Finite Automata."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 28.92,
+      "end": 33.52,
+      "text": " Now in the first important point I will tell you what is the meaning of deterministic."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 33.54,
+      "end": 40.22,
+      "text": " What is the meaning of deterministic here is that if I have a state in Automata Q0"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 40.24,
+      "end": 45.400000000000006,
+      "text": " and I have applied any string on Q0, I have applied any alphabet on Q0,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 45.42,
+      "end": 50.92,
+      "text": " let's say I have applied A, whether you do A, B, C, any alphabet you have applied"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 50.94,
+      "end": 53.92,
+      "text": " then it will go to a particular state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 53.92,
+      "end": 62.42,
+      "text": " Now what will be that state? It can be Q1, Q2, Qn, Q0 but there will be one state,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 62.44,
+      "end": 67.42,
+      "text": " this is fixed and where this thing gets fixed, we call it deterministic"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 67.44,
+      "end": 71.42,
+      "text": " which is not there in the case of NFA because in the case of NFA,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 71.44,
+      "end": 76.92,
+      "text": " it can go to Q1, Q2, Q3, it can go to multiple states,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 76.94,
+      "end": 81.24000000000001,
+      "text": " it can go to null state, it can go to any state,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 81.24,
+      "end": 87.24,
+      "text": " so there are multiple choices in the case of NFA but deterministic finite automata means"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 87.25999999999999,
+      "end": 95.24,
+      "text": " that if you apply any alphabet on a state then it will take you to a particular single state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 95.25999999999999,
+      "end": 97.75999999999999,
+      "text": " So this is the meaning of deterministic."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 97.78,
+      "end": 101.28,
+      "text": " And what is Automata? We have already discussed Automata,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 101.3,
+      "end": 108.8,
+      "text": " what we are calling Automata is a machine which is actually using the representation of language."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 108.8,
+      "end": 112.3,
+      "text": " Means if we have to represent language in standard way,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 112.32,
+      "end": 116.32,
+      "text": " whether my language is finite or infinite,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 116.34,
+      "end": 122.32,
+      "text": " if I have to represent it then what I use? I use Automata."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 122.34,
+      "end": 127.32,
+      "text": " So Automata is a machine, an abstract model which actually tells"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 127.34,
+      "end": 131.84,
+      "text": " whether this language will be accepted or not."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 131.85999999999999,
+      "end": 136.36,
+      "text": " So this is called deterministic finite automata."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 136.36,
+      "end": 141.36,
+      "text": " Now how do we denote DFA? We denote DFA with these 5 symbols,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 141.38000000000002,
+      "end": 144.36,
+      "text": " we actually denote it with these 5 tuples."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 144.38000000000002,
+      "end": 147.88000000000002,
+      "text": " So what we are actually saying here is, first of all Q,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 147.92000000000002,
+      "end": 153.92000000000002,
+      "text": " what is the meaning of capital Q here? Set of all finite states."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 153.94000000000003,
+      "end": 160.44000000000003,
+      "text": " Set of finite states means what all states will be there in your machine."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 160.46,
+      "end": 161.96,
+      "text": " What is the meaning of states?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 161.96,
+      "end": 165.96,
+      "text": " That from one state, means starting state to go to output,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 165.98000000000002,
+      "end": 169.48000000000002,
+      "text": " how many transitions you did, how many states you went to,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 169.5,
+      "end": 173.0,
+      "text": " so why do we call the collection of all those states as Q?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 173.02,
+      "end": 175.02,
+      "text": " Then we have summation here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 175.04000000000002,
+      "end": 178.04000000000002,
+      "text": " What is this actually? This is what I have already discussed,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 178.06,
+      "end": 180.06,
+      "text": " this is alphabet, set of alphabet."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 180.08,
+      "end": 184.08,
+      "text": " Let's suppose, what we take commonly, like we take A and B,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 184.10000000000002,
+      "end": 186.10000000000002,
+      "text": " means where is it going on A, where is it going on B,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 186.12,
+      "end": 190.62,
+      "text": " we take 0 and 1 also but most of the time we use A and B alphabet."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 190.78,
+      "end": 194.78,
+      "text": " Then we get delta, what is this actually? Transition."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 194.8,
+      "end": 197.3,
+      "text": " What is the meaning of transition?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 197.32,
+      "end": 201.32,
+      "text": " That you applied any alphabet on any state, A or B,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 201.34,
+      "end": 205.34,
+      "text": " where did you go? Means where did you reach? What is its output?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 205.36,
+      "end": 207.36,
+      "text": " At what state will you reach?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 207.38,
+      "end": 209.38,
+      "text": " So this transition is actually called,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 209.4,
+      "end": 211.9,
+      "text": " to transition from one state to another state,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 211.92000000000002,
+      "end": 214.42000000000002,
+      "text": " that is actually denoted by delta."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 214.44,
+      "end": 218.44,
+      "text": " Then Q note, Q note is your start, start state,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 218.44,
+      "end": 221.44,
+      "text": " means from which state you have started,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 221.46,
+      "end": 223.46,
+      "text": " that is generally our Q note."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 223.48,
+      "end": 228.48,
+      "text": " And what is F? Set of finite final state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 231.5,
+      "end": 233.5,
+      "text": " Now what is the meaning of saying here?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 233.52,
+      "end": 236.52,
+      "text": " Generally we have final state, we write only one and go."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 236.54,
+      "end": 240.54,
+      "text": " Final state means where your string will be completed,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 240.56,
+      "end": 243.56,
+      "text": " means where your output will be generated,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 243.57999999999998,
+      "end": 245.57999999999998,
+      "text": " that will be your final state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 245.58,
+      "end": 248.58,
+      "text": " But many times we have multiple final states also possible,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 248.60000000000002,
+      "end": 251.60000000000002,
+      "text": " so we generally write this as set of all final states."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 251.62,
+      "end": 254.62,
+      "text": " But all the final states that will be there,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 254.64000000000001,
+      "end": 257.64,
+      "text": " remember that how many total states do you have? Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 257.66,
+      "end": 262.66,
+      "text": " So means final states will be subset of whose? Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 262.68,
+      "end": 266.18,
+      "text": " Obviously final states can't be more than Q,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 266.2,
+      "end": 268.2,
+      "text": " what is Q? Set of all states,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 268.22,
+      "end": 270.22,
+      "text": " all the states are Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 270.24,
+      "end": 273.24,
+      "text": " So final state is either maximum to maximum Q,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 273.26,
+      "end": 275.26,
+      "text": " means all are final states,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 275.46,
+      "end": 277.46,
+      "text": " otherwise something less will be there,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 277.48,
+      "end": 282.48,
+      "text": " so you can say that F is a subset of all states, that is Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 282.5,
+      "end": 288.0,
+      "text": " Many times these small points can be asked from the point of view of theory in competitive exams."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 288.02,
+      "end": 290.02,
+      "text": " So you should remember these points,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 290.03999999999996,
+      "end": 294.53999999999996,
+      "text": " because DFA is one of the most important topic of TOC."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 294.56,
+      "end": 298.56,
+      "text": " Because maximum questions in competitive exams are related to DFA."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 298.58,
+      "end": 301.58,
+      "text": " What is DFA? Why do we use it? How do we use it?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 301.59999999999997,
+      "end": 303.59999999999997,
+      "text": " And designing it later."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 303.96000000000004,
+      "end": 305.96000000000004,
+      "text": " Which we will discuss in next videos."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 305.98,
+      "end": 309.48,
+      "text": " So here this is the basic definition of these 5,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 309.5,
+      "end": 311.5,
+      "text": " that how do we denote DFA?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 311.52000000000004,
+      "end": 313.52000000000004,
+      "text": " So we denote it with these 5 symbols."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 313.54,
+      "end": 315.54,
+      "text": " Now we take a simple example."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 315.56,
+      "end": 317.56,
+      "text": " Let's suppose I want to make a DFA,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 317.58000000000004,
+      "end": 320.58000000000004,
+      "text": " I want to make a deterministic finite automata,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 320.6,
+      "end": 323.6,
+      "text": " for a language, for which language?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 323.62,
+      "end": 329.62,
+      "text": " In which all strings should be starting with A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 329.64000000000004,
+      "end": 332.64000000000004,
+      "text": " Means I have to write that language here,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 332.71999999999997,
+      "end": 334.71999999999997,
+      "text": " in which all strings,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 334.74,
+      "end": 337.74,
+      "text": " because language is a collection of strings,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 337.76,
+      "end": 339.76,
+      "text": " means you should know all those strings,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 339.78,
+      "end": 342.78,
+      "text": " whose starting letter should be A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 342.8,
+      "end": 345.8,
+      "text": " So if I write its language, how will you write?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 345.82,
+      "end": 347.82,
+      "text": " Which will be the minimum string?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 347.84,
+      "end": 348.84,
+      "text": " The smallest one?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 348.86,
+      "end": 350.36,
+      "text": " It will be A itself."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 350.38,
+      "end": 352.38,
+      "text": " See what is the starting in A?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 352.4,
+      "end": 354.9,
+      "text": " It is A only, so it can't be any smaller than A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 354.91999999999996,
+      "end": 356.91999999999996,
+      "text": " Other than this, A can be A,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 356.94,
+      "end": 358.94,
+      "text": " A can be A, A can be A,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 358.96,
+      "end": 360.96,
+      "text": " keep increasing as much as you want."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 361.0,
+      "end": 363.0,
+      "text": " A can be A, B can be A,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 363.02,
+      "end": 365.02,
+      "text": " A can be A, B can be B,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 365.03999999999996,
+      "end": 367.03999999999996,
+      "text": " A can be A, B can be A,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 367.06,
+      "end": 369.06,
+      "text": " multiple possibilities are there."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 369.08,
+      "end": 371.08,
+      "text": " But can B be A?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 371.09999999999997,
+      "end": 373.09999999999997,
+      "text": " No, you have to keep this in mind."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 373.12,
+      "end": 375.12,
+      "text": " See, starting letter is B,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 375.14,
+      "end": 377.14,
+      "text": " means these type of strings should not be there."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 377.15999999999997,
+      "end": 379.15999999999997,
+      "text": " So what is this actually?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 379.17999999999995,
+      "end": 381.17999999999995,
+      "text": " Start with A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 381.2,
+      "end": 383.2,
+      "text": " So is this obviously finite or infinite?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 383.21999999999997,
+      "end": 385.21999999999997,
+      "text": " This is the part of infinite language."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 385.24,
+      "end": 387.24,
+      "text": " Now I have to represent this infinite language"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 387.26,
+      "end": 389.26,
+      "text": " with the help of finite automata."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 389.58,
+      "end": 391.58,
+      "text": " How will we do it?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 391.59999999999997,
+      "end": 393.59999999999997,
+      "text": " Let's start with the designing part."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 393.62,
+      "end": 395.62,
+      "text": " So let's design."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 395.64,
+      "end": 397.64,
+      "text": " First of all, we have Q0, that is our initial state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 397.65999999999997,
+      "end": 399.65999999999997,
+      "text": " So starting state or initial state"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 399.68,
+      "end": 401.68,
+      "text": " we denote like this, Q0."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 401.7,
+      "end": 403.7,
+      "text": " It can also be multiple."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 403.71999999999997,
+      "end": 405.71999999999997,
+      "text": " At some places, we denote it in A, B, C."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 405.74,
+      "end": 407.74,
+      "text": " X, Y, Z, so there is no need to worry."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 407.76,
+      "end": 409.76,
+      "text": " We have Q0 as the general notation."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 409.78,
+      "end": 411.78,
+      "text": " And this arrow that we have put here,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 411.8,
+      "end": 413.8,
+      "text": " this arrow tells us"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 413.82,
+      "end": 415.82,
+      "text": " that this is the start state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 415.84,
+      "end": 417.84,
+      "text": " We are starting from here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 418.44,
+      "end": 420.44,
+      "text": " I want A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 420.46,
+      "end": 422.46,
+      "text": " Means whenever you design DFA,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 422.47999999999996,
+      "end": 424.47999999999996,
+      "text": " always remember,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 424.5,
+      "end": 426.5,
+      "text": " design for minimum to minimum string first."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 426.52,
+      "end": 428.52,
+      "text": " After that fill in the blanks."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 428.53999999999996,
+      "end": 430.53999999999996,
+      "text": " Fill in the blanks means you will understand that."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 430.56,
+      "end": 432.56,
+      "text": " So minimum to minimum is A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 432.58,
+      "end": 434.58,
+      "text": " Means at least one A should come."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 434.59999999999997,
+      "end": 436.59999999999997,
+      "text": " So here it is."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 436.62,
+      "end": 438.62,
+      "text": " If one A comes,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 438.64,
+      "end": 440.64,
+      "text": " then we reach which state?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 440.65999999999997,
+      "end": 442.65999999999997,
+      "text": " We reach Q1 state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 442.67999999999995,
+      "end": 444.67999999999995,
+      "text": " So see, A came,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 444.7,
+      "end": 446.7,
+      "text": " so I reached Q1 state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 446.7,
+      "end": 448.7,
+      "text": " So I started from A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 448.71999999999997,
+      "end": 450.71999999999997,
+      "text": " So which is the minimum to minimum string? A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 450.74,
+      "end": 452.74,
+      "text": " As soon as A comes, I reached Q1."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 452.76,
+      "end": 454.76,
+      "text": " And at Q1, I make it"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 454.78,
+      "end": 456.78,
+      "text": " final state. Why?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 456.8,
+      "end": 458.8,
+      "text": " Because as soon as one A comes,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 458.82,
+      "end": 460.82,
+      "text": " it will accept it."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 460.84,
+      "end": 462.84,
+      "text": " As soon as it accepts,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 462.86,
+      "end": 464.86,
+      "text": " our question is being made."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 464.88,
+      "end": 466.88,
+      "text": " Because what we have to make?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 466.9,
+      "end": 468.9,
+      "text": " We have to make such a machine"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 468.91999999999996,
+      "end": 470.91999999999996,
+      "text": " which accepts the strings starting with A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 470.94,
+      "end": 472.94,
+      "text": " So see, we accepted"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 472.96,
+      "end": 474.96,
+      "text": " minimum to minimum."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 474.96,
+      "end": 476.96,
+      "text": " This is the first step of designing."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 476.97999999999996,
+      "end": 478.97999999999996,
+      "text": " That you make it for minimum to minimum."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 479.0,
+      "end": 481.0,
+      "text": " Now fill in the blanks."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 481.02,
+      "end": 483.02,
+      "text": " What is the meaning of fill in the blanks?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 483.03999999999996,
+      "end": 485.03999999999996,
+      "text": " Is it DFA? No."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 485.06,
+      "end": 487.06,
+      "text": " Why is it not DFA?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 487.08,
+      "end": 489.08,
+      "text": " What is the reason for this?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 489.09999999999997,
+      "end": 491.09999999999997,
+      "text": " It is not DFA because"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 491.12,
+      "end": 493.12,
+      "text": " in every DFA, if I talk about alphabet,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 493.14,
+      "end": 495.14,
+      "text": " then let's suppose in this question"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 495.15999999999997,
+      "end": 497.15999999999997,
+      "text": " the alphabet we have is A and B."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 497.17999999999995,
+      "end": 499.17999999999995,
+      "text": " So see,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 499.2,
+      "end": 501.2,
+      "text": " Q0 went here for A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 501.21999999999997,
+      "end": 503.21999999999997,
+      "text": " But where is it going for B?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 503.5,
+      "end": 505.5,
+      "text": " So I have to denote"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 505.52000000000004,
+      "end": 507.52000000000004,
+      "text": " for all the alphabets."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 507.54,
+      "end": 509.54,
+      "text": " So Q0 for A is going here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 509.56,
+      "end": 511.56,
+      "text": " Where will it go for B?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 511.58000000000004,
+      "end": 513.58,
+      "text": " If I make B here,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 513.6,
+      "end": 515.6,
+      "text": " then my question is wrong."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 515.62,
+      "end": 517.62,
+      "text": " Because if B comes in the starting,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 517.64,
+      "end": 519.64,
+      "text": " then B will also be accepted."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 519.6600000000001,
+      "end": 521.6600000000001,
+      "text": " So I can't write B here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 521.6800000000001,
+      "end": 523.6800000000001,
+      "text": " What can be the second case?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 523.7,
+      "end": 525.7,
+      "text": " Let's suppose I made a self loop"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 525.72,
+      "end": 527.72,
+      "text": " of B. If I make a self loop"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 527.74,
+      "end": 529.74,
+      "text": " of B, then see if the string comes"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 529.76,
+      "end": 531.76,
+      "text": " BA, then see BA"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 532.3199999999999,
+      "end": 534.3199999999999,
+      "text": " How do you have to run?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 534.34,
+      "end": 536.34,
+      "text": " B comes from the starting."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 536.36,
+      "end": 538.36,
+      "text": " We are on Q0 from Q0"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 538.38,
+      "end": 540.38,
+      "text": " and we reached here as soon as A comes."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 540.4,
+      "end": 542.4,
+      "text": " So this is accepted."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 542.42,
+      "end": 544.42,
+      "text": " But we don't have to accept BA."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 544.4399999999999,
+      "end": 546.4399999999999,
+      "text": " A should come in the starting."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 546.46,
+      "end": 548.46,
+      "text": " So what does this mean?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 548.48,
+      "end": 550.48,
+      "text": " It can't be a self loop and neither can we write B here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 550.5,
+      "end": 552.5,
+      "text": " So obviously I have to trap B."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 552.52,
+      "end": 554.52,
+      "text": " I have to go to a dead state"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 554.54,
+      "end": 556.54,
+      "text": " so that I can't come back from there."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 556.56,
+      "end": 558.56,
+      "text": " So this is called a trap."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 558.58,
+      "end": 560.58,
+      "text": " So we have to make a string"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 560.6,
+      "end": 562.6,
+      "text": " We made a state for B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 562.62,
+      "end": 564.62,
+      "text": " Let's say Q0 and whenever B comes"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 564.64,
+      "end": 566.64,
+      "text": " it will go to Q0."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 566.6600000000001,
+      "end": 568.6600000000001,
+      "text": " It can't go anywhere from Q0."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 568.6800000000001,
+      "end": 570.6800000000001,
+      "text": " There is no path to reach to the final state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 570.7,
+      "end": 572.7,
+      "text": " This is called a trap."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 572.72,
+      "end": 574.72,
+      "text": " We shifted it to a dead state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 574.74,
+      "end": 576.74,
+      "text": " So we made it in a dead state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 576.76,
+      "end": 578.76,
+      "text": " Now see Q0 is going here on A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 578.7800000000001,
+      "end": 580.7800000000001,
+      "text": " and B is going here."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 580.8000000000001,
+      "end": 582.8000000000001,
+      "text": " But Q1, where is Q1 going?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 582.82,
+      "end": 584.82,
+      "text": " Q1 is neither made on A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 584.84,
+      "end": 586.84,
+      "text": " nor on B, so there is no problem."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 586.86,
+      "end": 588.86,
+      "text": " You make it simple on A and B."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 589.1800000000001,
+      "end": 591.1800000000001,
+      "text": " How did it come?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 591.2,
+      "end": 593.2,
+      "text": " How did it come in your mind that you have to make A and B in a self loop?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 593.22,
+      "end": 595.22,
+      "text": " See the starting letter is A."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 595.24,
+      "end": 597.24,
+      "text": " What comes after A?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 597.26,
+      "end": 599.26,
+      "text": " After A, whatever you want"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 599.28,
+      "end": 601.28,
+      "text": " After A, it's A, after A it's B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 601.3000000000001,
+      "end": 603.3000000000001,
+      "text": " B is B A is A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 603.32,
+      "end": 605.32,
+      "text": " Any combination"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 605.34,
+      "end": 607.34,
+      "text": " So see, when A came in the starting"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 607.36,
+      "end": 609.36,
+      "text": " I reached here, now after that A comes"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 609.38,
+      "end": 611.38,
+      "text": " A will be accepted."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 611.4,
+      "end": 613.4,
+      "text": " A, B, B, whatever you want"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 613.4200000000001,
+      "end": 615.4200000000001,
+      "text": " will be accepted."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 615.44,
+      "end": 617.44,
+      "text": " Our condition is that the first letter should be A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 618.0400000000001,
+      "end": 620.0400000000001,
+      "text": " and that will be true."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 620.0600000000001,
+      "end": 622.0600000000001,
+      "text": " And see Q0, you make Q0"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 622.08,
+      "end": 624.08,
+      "text": " simple for A and B."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 624.1,
+      "end": 626.1,
+      "text": " Because if you take it up by mistake"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 626.12,
+      "end": 628.12,
+      "text": " or take it here"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 628.1400000000001,
+      "end": 630.1400000000001,
+      "text": " then A will not remain in a dead state."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 630.1600000000001,
+      "end": 632.1600000000001,
+      "text": " Then someone else can be such an input"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 632.1800000000001,
+      "end": 634.1800000000001,
+      "text": " in which A is not coming in the starting"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 634.2,
+      "end": 636.2,
+      "text": " that also gets accepted."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 636.22,
+      "end": 638.22,
+      "text": " So in a dead state, A and B always go on themselves"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 638.24,
+      "end": 640.24,
+      "text": " so that we can keep it trapped."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 640.2600000000001,
+      "end": 642.2600000000001,
+      "text": " We can't come out of it, we can't come up from it"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 642.2800000000001,
+      "end": 644.2800000000001,
+      "text": " nor can we go anywhere else from it."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 644.3000000000001,
+      "end": 646.3000000000001,
+      "text": " So what is your DFA?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 646.3,
+      "end": 648.3,
+      "text": " Q0 is going here on A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 648.3199999999999,
+      "end": 650.3199999999999,
+      "text": " and B is going here. Q2"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 650.3399999999999,
+      "end": 652.3399999999999,
+      "text": " is going here on A and B, this is also fine."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 652.3599999999999,
+      "end": 654.3599999999999,
+      "text": " Q1 is going here on A and B, so this is also fine."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 654.38,
+      "end": 656.38,
+      "text": " So now your DFA is ready."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 656.4,
+      "end": 658.4,
+      "text": " So this is called transition."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 658.42,
+      "end": 660.42,
+      "text": " What does transition mean?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 660.4399999999999,
+      "end": 662.4399999999999,
+      "text": " We denote transition in this way."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 662.4599999999999,
+      "end": 664.4599999999999,
+      "text": " What does transition mean?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 664.4799999999999,
+      "end": 666.4799999999999,
+      "text": " Q into"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 666.5,
+      "end": 668.5,
+      "text": " this is your"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 668.52,
+      "end": 670.52,
+      "text": " submission."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 670.54,
+      "end": 672.54,
+      "text": " Means your alphabet, that is A and B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 672.56,
+      "end": 674.56,
+      "text": " and it is what?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 674.8399999999999,
+      "end": 676.8399999999999,
+      "text": " We represent this"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 676.8599999999999,
+      "end": 678.8599999999999,
+      "text": " we represent delta"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 678.88,
+      "end": 680.88,
+      "text": " in this way. What does this mean?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 680.9,
+      "end": 682.9,
+      "text": " You have all the states."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 682.92,
+      "end": 684.92,
+      "text": " What are the states?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 684.9399999999999,
+      "end": 686.9399999999999,
+      "text": " Q0, Q1, Q2"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 686.9599999999999,
+      "end": 688.9599999999999,
+      "text": " and multiply this with what?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 688.9799999999999,
+      "end": 690.9799999999999,
+      "text": " Q0, Q1, Q2"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 691.0,
+      "end": 693.0,
+      "text": " and multiply this with submission."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 693.02,
+      "end": 695.02,
+      "text": " In this question, you have which all alphabets"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 695.04,
+      "end": 697.04,
+      "text": " A and B. So if you multiply"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 697.06,
+      "end": 699.06,
+      "text": " both of them, then what will come?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 699.0799999999999,
+      "end": 701.0799999999999,
+      "text": " If you multiply both of them"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 701.0999999999999,
+      "end": 703.0999999999999,
+      "text": " then it will come Q0A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 703.1,
+      "end": 705.1,
+      "text": " Q0B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 705.12,
+      "end": 707.12,
+      "text": " Q1A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 707.14,
+      "end": 709.14,
+      "text": " Q1B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 709.16,
+      "end": 711.16,
+      "text": " Q2A, Q2B"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 711.1800000000001,
+      "end": 713.1800000000001,
+      "text": " We have simply cross multiplied both of them."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 713.2,
+      "end": 715.2,
+      "text": " We have cross multiplied both of them."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 715.22,
+      "end": 717.22,
+      "text": " So we have 3 into 2, 6"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 717.24,
+      "end": 719.24,
+      "text": " states. So what we have to do with these 6 states?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 719.26,
+      "end": 721.26,
+      "text": " Now Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 721.28,
+      "end": 723.28,
+      "text": " What is Q here? Q0"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 723.3000000000001,
+      "end": 725.3000000000001,
+      "text": " Q1, Q2"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 725.32,
+      "end": 727.32,
+      "text": " So see how you will represent?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 727.34,
+      "end": 729.34,
+      "text": " Q0A comes."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 729.36,
+      "end": 731.36,
+      "text": " If A comes on Q0Q, then where will you go?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 731.36,
+      "end": 733.36,
+      "text": " You will go on Q1. So you denote it like this."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 733.38,
+      "end": 735.38,
+      "text": " This is your transition."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 735.4,
+      "end": 737.4,
+      "text": " If B comes on Q0Q,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 737.42,
+      "end": 739.42,
+      "text": " then you will go on Q2Q."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 739.44,
+      "end": 741.44,
+      "text": " So make it on Q2."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 741.46,
+      "end": 743.46,
+      "text": " If A comes on Q1, then you will be on Q1."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 743.48,
+      "end": 745.48,
+      "text": " If A comes on Q1,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 745.5,
+      "end": 747.5,
+      "text": " then where will you reach? You will not reach anywhere."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 747.52,
+      "end": 749.52,
+      "text": " You will be on Q1. Similarly, if B comes on Q1,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 749.54,
+      "end": 751.54,
+      "text": " then as soon as B comes on Q1,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 751.5600000000001,
+      "end": 753.5600000000001,
+      "text": " where will you reach?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 753.58,
+      "end": 755.58,
+      "text": " You will be on Q1. Similarly, if A comes on Q2,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 755.6,
+      "end": 757.6,
+      "text": " you will be on Q2."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 757.62,
+      "end": 759.62,
+      "text": " If B comes on Q2,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 759.62,
+      "end": 761.62,
+      "text": " then you will be on Q2."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 761.64,
+      "end": 763.64,
+      "text": " So this is actually"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 763.66,
+      "end": 765.66,
+      "text": " the transition to represent FUNDA."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 765.68,
+      "end": 767.68,
+      "text": " So Q1,"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 767.7,
+      "end": 769.7,
+      "text": " your Q0, Q1 and Q2"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 769.72,
+      "end": 771.72,
+      "text": " are completed like this."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 771.74,
+      "end": 773.74,
+      "text": " So what is this actually? Transition."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 773.76,
+      "end": 775.76,
+      "text": " Which we call, if I apply"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 775.78,
+      "end": 777.78,
+      "text": " an alphabet on a state, then where will you reach?"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 777.8,
+      "end": 779.8,
+      "text": " That is called a transition."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 779.82,
+      "end": 781.82,
+      "text": " So these 5 tuples, 5 symbols"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 781.84,
+      "end": 783.84,
+      "text": " will be clear to you. And this is a basic"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 783.86,
+      "end": 785.86,
+      "text": " example starting with A"
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 785.88,
+      "end": 787.88,
+      "text": " deterministic finite automata."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 788.18,
+      "end": 790.18,
+      "text": " So this is all important points related to the DFA."
+    },
+    {
+      "number": "Lec-6",
+      "title": "What is DFA in TOC with examples in hindi 480p",
+      "start": 790.2,
+      "end": 792.2,
+      "text": " Thank you."
+    }
+  ],
+  "text": " Hello friends, welcome to Gate Smashers. In this video I am going to explain DFA i.e. Deterministic Finite Automata and I am going to discuss all the important points related to it which will be very beneficial for your competitive exams, even for your college or university level exams. So guys quickly like the video, subscribe to the channel if you haven't done it yet and please press the bell button so that you get all the latest notifications. So let's start DFA i.e. Deterministic Finite Automata. Now in the first important point I will tell you what is the meaning of deterministic. What is the meaning of deterministic here is that if I have a state in Automata Q0 and I have applied any string on Q0, I have applied any alphabet on Q0, let's say I have applied A, whether you do A, B, C, any alphabet you have applied then it will go to a particular state. Now what will be that state? It can be Q1, Q2, Qn, Q0 but there will be one state, this is fixed and where this thing gets fixed, we call it deterministic which is not there in the case of NFA because in the case of NFA, it can go to Q1, Q2, Q3, it can go to multiple states, it can go to null state, it can go to any state, so there are multiple choices in the case of NFA but deterministic finite automata means that if you apply any alphabet on a state then it will take you to a particular single state. So this is the meaning of deterministic. And what is Automata? We have already discussed Automata, what we are calling Automata is a machine which is actually using the representation of language. Means if we have to represent language in standard way, whether my language is finite or infinite, if I have to represent it then what I use? I use Automata. So Automata is a machine, an abstract model which actually tells whether this language will be accepted or not. So this is called deterministic finite automata. Now how do we denote DFA? We denote DFA with these 5 symbols, we actually denote it with these 5 tuples. So what we are actually saying here is, first of all Q, what is the meaning of capital Q here? Set of all finite states. Set of finite states means what all states will be there in your machine. What is the meaning of states? That from one state, means starting state to go to output, how many transitions you did, how many states you went to, so why do we call the collection of all those states as Q? Then we have summation here. What is this actually? This is what I have already discussed, this is alphabet, set of alphabet. Let's suppose, what we take commonly, like we take A and B, means where is it going on A, where is it going on B, we take 0 and 1 also but most of the time we use A and B alphabet. Then we get delta, what is this actually? Transition. What is the meaning of transition? That you applied any alphabet on any state, A or B, where did you go? Means where did you reach? What is its output? At what state will you reach? So this transition is actually called, to transition from one state to another state, that is actually denoted by delta. Then Q note, Q note is your start, start state, means from which state you have started, that is generally our Q note. And what is F? Set of finite final state. Now what is the meaning of saying here? Generally we have final state, we write only one and go. Final state means where your string will be completed, means where your output will be generated, that will be your final state. But many times we have multiple final states also possible, so we generally write this as set of all final states. But all the final states that will be there, remember that how many total states do you have? Q. So means final states will be subset of whose? Q. Obviously final states can't be more than Q, what is Q? Set of all states, all the states are Q. So final state is either maximum to maximum Q, means all are final states, otherwise something less will be there, so you can say that F is a subset of all states, that is Q. Many times these small points can be asked from the point of view of theory in competitive exams. So you should remember these points, because DFA is one of the most important topic of TOC. Because maximum questions in competitive exams are related to DFA. What is DFA? Why do we use it? How do we use it? And designing it later. Which we will discuss in next videos. So here this is the basic definition of these 5, that how do we denote DFA? So we denote it with these 5 symbols. Now we take a simple example. Let's suppose I want to make a DFA, I want to make a deterministic finite automata, for a language, for which language? In which all strings should be starting with A. Means I have to write that language here, in which all strings, because language is a collection of strings, means you should know all those strings, whose starting letter should be A. So if I write its language, how will you write? Which will be the minimum string? The smallest one? It will be A itself. See what is the starting in A? It is A only, so it can't be any smaller than A. Other than this, A can be A, A can be A, A can be A, keep increasing as much as you want. A can be A, B can be A, A can be A, B can be B, A can be A, B can be A, multiple possibilities are there. But can B be A? No, you have to keep this in mind. See, starting letter is B, means these type of strings should not be there. So what is this actually? Start with A. So is this obviously finite or infinite? This is the part of infinite language. Now I have to represent this infinite language with the help of finite automata. How will we do it? Let's start with the designing part. So let's design. First of all, we have Q0, that is our initial state. So starting state or initial state we denote like this, Q0. It can also be multiple. At some places, we denote it in A, B, C. X, Y, Z, so there is no need to worry. We have Q0 as the general notation. And this arrow that we have put here, this arrow tells us that this is the start state. We are starting from here. I want A. Means whenever you design DFA, always remember, design for minimum to minimum string first. After that fill in the blanks. Fill in the blanks means you will understand that. So minimum to minimum is A. Means at least one A should come. So here it is. If one A comes, then we reach which state? We reach Q1 state. So see, A came, so I reached Q1 state. So I started from A. So which is the minimum to minimum string? A. As soon as A comes, I reached Q1. And at Q1, I make it final state. Why? Because as soon as one A comes, it will accept it. As soon as it accepts, our question is being made. Because what we have to make? We have to make such a machine which accepts the strings starting with A. So see, we accepted minimum to minimum. This is the first step of designing. That you make it for minimum to minimum. Now fill in the blanks. What is the meaning of fill in the blanks? Is it DFA? No. Why is it not DFA? What is the reason for this? It is not DFA because in every DFA, if I talk about alphabet, then let's suppose in this question the alphabet we have is A and B. So see, Q0 went here for A. But where is it going for B? So I have to denote for all the alphabets. So Q0 for A is going here. Where will it go for B? If I make B here, then my question is wrong. Because if B comes in the starting, then B will also be accepted. So I can't write B here. What can be the second case? Let's suppose I made a self loop of B. If I make a self loop of B, then see if the string comes BA, then see BA How do you have to run? B comes from the starting. We are on Q0 from Q0 and we reached here as soon as A comes. So this is accepted. But we don't have to accept BA. A should come in the starting. So what does this mean? It can't be a self loop and neither can we write B here. So obviously I have to trap B. I have to go to a dead state so that I can't come back from there. So this is called a trap. So we have to make a string We made a state for B Let's say Q0 and whenever B comes it will go to Q0. It can't go anywhere from Q0. There is no path to reach to the final state. This is called a trap. We shifted it to a dead state. So we made it in a dead state. Now see Q0 is going here on A and B is going here. But Q1, where is Q1 going? Q1 is neither made on A nor on B, so there is no problem. You make it simple on A and B. How did it come? How did it come in your mind that you have to make A and B in a self loop? See the starting letter is A. What comes after A? After A, whatever you want After A, it's A, after A it's B B is B A is A Any combination So see, when A came in the starting I reached here, now after that A comes A will be accepted. A, B, B, whatever you want will be accepted. Our condition is that the first letter should be A and that will be true. And see Q0, you make Q0 simple for A and B. Because if you take it up by mistake or take it here then A will not remain in a dead state. Then someone else can be such an input in which A is not coming in the starting that also gets accepted. So in a dead state, A and B always go on themselves so that we can keep it trapped. We can't come out of it, we can't come up from it nor can we go anywhere else from it. So what is your DFA? Q0 is going here on A and B is going here. Q2 is going here on A and B, this is also fine. Q1 is going here on A and B, so this is also fine. So now your DFA is ready. So this is called transition. What does transition mean? We denote transition in this way. What does transition mean? Q into this is your submission. Means your alphabet, that is A and B and it is what? We represent this we represent delta in this way. What does this mean? You have all the states. What are the states? Q0, Q1, Q2 and multiply this with what? Q0, Q1, Q2 and multiply this with submission. In this question, you have which all alphabets A and B. So if you multiply both of them, then what will come? If you multiply both of them then it will come Q0A Q0B Q1A Q1B Q2A, Q2B We have simply cross multiplied both of them. We have cross multiplied both of them. So we have 3 into 2, 6 states. So what we have to do with these 6 states? Now Q. What is Q here? Q0 Q1, Q2 So see how you will represent? Q0A comes. If A comes on Q0Q, then where will you go? You will go on Q1. So you denote it like this. This is your transition. If B comes on Q0Q, then you will go on Q2Q. So make it on Q2. If A comes on Q1, then you will be on Q1. If A comes on Q1, then where will you reach? You will not reach anywhere. You will be on Q1. Similarly, if B comes on Q1, then as soon as B comes on Q1, where will you reach? You will be on Q1. Similarly, if A comes on Q2, you will be on Q2. If B comes on Q2, then you will be on Q2. So this is actually the transition to represent FUNDA. So Q1, your Q0, Q1 and Q2 are completed like this. So what is this actually? Transition. Which we call, if I apply an alphabet on a state, then where will you reach? That is called a transition. So these 5 tuples, 5 symbols will be clear to you. And this is a basic example starting with A deterministic finite automata. So this is all important points related to the DFA. Thank you."
+}

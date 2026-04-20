@@ -1,0 +1,915 @@
+{
+  "chunks": [
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 0.0,
+      "end": 2.8000000000000003,
+      "text": " Hello friends, Welcome to GATE Smashers."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 3.0,
+      "end": 10.8,
+      "text": " Next example is construct a DFA which accept a language of all strings end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 11.0,
+      "end": 13.8,
+      "text": " In last video we have discussed about containing A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 14.0,
+      "end": 18.8,
+      "text": " In this video we are discussing how to construct a DFA which will accept all the strings"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 19.0,
+      "end": 21.8,
+      "text": " which must end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 22.0,
+      "end": 23.8,
+      "text": " So what is your first step?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 24.0,
+      "end": 26.8,
+      "text": " First step is you have to write the language."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 27.0,
+      "end": 28.8,
+      "text": " And what is a language?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 28.8,
+      "end": 31.6,
+      "text": " Language is a collection of string."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 31.8,
+      "end": 35.6,
+      "text": " So here in end with A which will be the minimum string?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 35.8,
+      "end": 42.6,
+      "text": " Although minimum string is epsilon but in epsilon A is not coming anywhere."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 42.8,
+      "end": 45.6,
+      "text": " Means we have to write only what should be end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 45.8,
+      "end": 48.6,
+      "text": " So what will be your minimum? A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 48.8,
+      "end": 53.6,
+      "text": " Obviously keep on increasing A, A, A, A like this."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 53.8,
+      "end": 55.6,
+      "text": " Apart from this what else can come?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 55.8,
+      "end": 57.6,
+      "text": " B, A can come? Yes."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 57.6,
+      "end": 60.4,
+      "text": " See in B, A, A is coming in last."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 60.6,
+      "end": 64.4,
+      "text": " So yes B, A, B, A, B, A can come like this."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 64.6,
+      "end": 67.4,
+      "text": " A, B, A. Yes this is also correct."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 67.6,
+      "end": 70.4,
+      "text": " Because in this also A is coming in last."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 70.6,
+      "end": 72.4,
+      "text": " Can A, B come?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 72.6,
+      "end": 76.4,
+      "text": " A, B, A, B, A can come like this? No."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 76.6,
+      "end": 79.4,
+      "text": " This cannot come because what is coming in last?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 79.6,
+      "end": 82.4,
+      "text": " B is coming and should be end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 82.6,
+      "end": 84.4,
+      "text": " So means this string should not come in this."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 84.6,
+      "end": 86.4,
+      "text": " So first of all you write the language."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 86.4,
+      "end": 89.2,
+      "text": " Means which all strings should come in this?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 89.4,
+      "end": 91.2,
+      "text": " So this will be the language we will get."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 91.4,
+      "end": 94.2,
+      "text": " And which is this? It is the infinite language which is being made here."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 94.4,
+      "end": 97.2,
+      "text": " So now we will design its DFA."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 97.4,
+      "end": 100.2,
+      "text": " In end with A, first of all when we design DFA,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 100.4,
+      "end": 103.2,
+      "text": " then you have to design for minimum to minimum string."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 103.4,
+      "end": 109.2,
+      "text": " So the first initial state or starting state which we have will be Q0."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 109.4,
+      "end": 115.2,
+      "text": " And on Q0 when I, A alphabet, we have alphabet in which question?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 115.2,
+      "end": 117.0,
+      "text": " We have two alphabet A and B."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 117.2,
+      "end": 121.0,
+      "text": " So where is Q0 going to A? It is going to Q1."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 121.2,
+      "end": 124.0,
+      "text": " And what is Q1 for me? Final state."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 124.2,
+      "end": 127.0,
+      "text": " And see A is, means single A came."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 127.2,
+      "end": 130.0,
+      "text": " So which was the minimum string of yours? Single A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 130.2,
+      "end": 132.0,
+      "text": " So as soon as single A comes, what we did?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 132.2,
+      "end": 134.0,
+      "text": " We made it reach the final state."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 134.2,
+      "end": 136.0,
+      "text": " And here if I make its loop,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 136.2,
+      "end": 138.0,
+      "text": " if I make loop of A here,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 138.2,
+      "end": 141.0,
+      "text": " then not single A, multiple A can also come."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 141.2,
+      "end": 145.0,
+      "text": " But first of all I have to get it accepted for minimum string."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 145.2,
+      "end": 147.0,
+      "text": " So what is minimum string? Single A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 147.2,
+      "end": 149.0,
+      "text": " So if you make loop, then it is not single A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 149.2,
+      "end": 151.0,
+      "text": " how many ever A can come,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 151.2,
+      "end": 153.0,
+      "text": " so that means from Q0,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 153.2,
+      "end": 157.0,
+      "text": " if you apply A symbol, apply A alphabet,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 157.2,
+      "end": 158.0,
+      "text": " then you will reach Q1."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 158.2,
+      "end": 161.0,
+      "text": " And what is Q1 for me? Final state."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 161.2,
+      "end": 163.0,
+      "text": " Now what you have to do? Filling the blanks."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 163.2,
+      "end": 165.0,
+      "text": " What is filling the blanks?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 165.2,
+      "end": 169.0,
+      "text": " DFA is not yet completed because Q0 is going to A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 169.2,
+      "end": 170.0,
+      "text": " Where is it going to B?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 170.2,
+      "end": 172.0,
+      "text": " You have to make it on B also."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 172.2,
+      "end": 174.0,
+      "text": " So what is the logic to make it on B?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 174.0,
+      "end": 175.8,
+      "text": " All the strings we have,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 176.0,
+      "end": 177.8,
+      "text": " A should come in the end."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 178.0,
+      "end": 179.8,
+      "text": " So can B come before A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 180.0,
+      "end": 182.8,
+      "text": " Yes, B can come before A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 183.0,
+      "end": 184.8,
+      "text": " Because we have already discussed that"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 185.0,
+      "end": 187.8,
+      "text": " strings like B, A, B, A can come."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 188.0,
+      "end": 189.8,
+      "text": " So should A come before A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 190.0,
+      "end": 193.8,
+      "text": " No, B can come before A as much as you want,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 194.0,
+      "end": 195.8,
+      "text": " A should come in the last."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 196.0,
+      "end": 199.8,
+      "text": " So what you do? Make B's self loop."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 200.0,
+      "end": 200.8,
+      "text": " Why did I make self loop?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 201.0,
+      "end": 203.8,
+      "text": " Simple logic, A should come in the last,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 204.0,
+      "end": 205.8,
+      "text": " so can A come before A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 206.0,
+      "end": 208.8,
+      "text": " 2 can come, 1000, 10000, whatever can come,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 209.0,
+      "end": 210.8,
+      "text": " then you make its self loop."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 211.0,
+      "end": 214.8,
+      "text": " Neither do we have to put it in any trap state,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 215.0,
+      "end": 215.8,
+      "text": " nor put it in any end state."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 216.0,
+      "end": 217.8,
+      "text": " Make it a simple loop."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 218.0,
+      "end": 219.8,
+      "text": " So this is going here for B"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 220.0,
+      "end": 221.8,
+      "text": " and transition is here for A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 222.0,
+      "end": 222.8,
+      "text": " Look at Q1,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 223.0,
+      "end": 225.8,
+      "text": " we have not made a transition anywhere for A and B."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 226.0,
+      "end": 228.8,
+      "text": " So where should Q1 go on A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 229.0,
+      "end": 230.8,
+      "text": " According to you, where should it go on A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 231.0,
+      "end": 233.8,
+      "text": " Simple logic, end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 234.0,
+      "end": 235.8,
+      "text": " What does end with A mean?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 236.0,
+      "end": 237.8,
+      "text": " If my symbol is A in the last,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 238.0,
+      "end": 239.8,
+      "text": " what should come after A?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 240.0,
+      "end": 241.8,
+      "text": " If A comes after A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 242.0,
+      "end": 244.8,
+      "text": " multiple A comes, then is there any problem?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 245.0,
+      "end": 247.8,
+      "text": " No, if it will be in the last, then it is A only,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 248.0,
+      "end": 248.8,
+      "text": " end with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 249.0,
+      "end": 250.8,
+      "text": " Now if I have A here,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 251.0,
+      "end": 252.8,
+      "text": " if another A comes after this,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 253.0,
+      "end": 254.8,
+      "text": " as many A as you want, there is no problem,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 255.0,
+      "end": 256.8,
+      "text": " because A should be in the last,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 257.0,
+      "end": 258.8,
+      "text": " so its logic is simple,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 259.0,
+      "end": 261.8,
+      "text": " make self loop on Q1A, that's it."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 262.6,
+      "end": 268.6,
+      "text": " On B, if I put it in the trap state,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 268.8,
+      "end": 270.6,
+      "text": " I put it in the trap state,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 270.8,
+      "end": 272.6,
+      "text": " then what is the problem?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 272.8,
+      "end": 273.6,
+      "text": " What can be the problem?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 273.8,
+      "end": 275.6,
+      "text": " If I get a string like this,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 275.8,
+      "end": 277.6,
+      "text": " A, B, A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 277.8,
+      "end": 279.6,
+      "text": " A, B, A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 279.8,
+      "end": 283.6,
+      "text": " so we had discussed that A, B, A should be accepted,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 283.8,
+      "end": 285.6,
+      "text": " because A, B, A ends with A."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 285.8,
+      "end": 288.6,
+      "text": " But if I run it here,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 288.8,
+      "end": 289.6,
+      "text": " starting with Q0,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 289.6,
+      "end": 292.40000000000003,
+      "text": " I ran A from Q0, reached Q1,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 292.6,
+      "end": 293.40000000000003,
+      "text": " B came on Q1,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 293.6,
+      "end": 296.40000000000003,
+      "text": " as soon as B came, I reached Q2,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 296.6,
+      "end": 299.40000000000003,
+      "text": " now where will I go as soon as next A comes?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 299.6,
+      "end": 302.40000000000003,
+      "text": " Obviously, the trap state always goes on its own,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 302.6,
+      "end": 305.40000000000003,
+      "text": " so you will get stuck on Q2 only,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 305.6,
+      "end": 308.40000000000003,
+      "text": " you will get stuck on Q2 only because you made a trap,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 308.6,
+      "end": 310.40000000000003,
+      "text": " so there is no need to make a trap here,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 310.6,
+      "end": 314.40000000000003,
+      "text": " because A, B, A type of string should also be accepted,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 314.6,
+      "end": 316.40000000000003,
+      "text": " so what to do to accept this?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 316.6,
+      "end": 319.40000000000003,
+      "text": " To accept this, you don't have to make a trap state,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 319.6,
+      "end": 323.40000000000003,
+      "text": " what you do is, send it back for B,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 323.6,
+      "end": 326.40000000000003,
+      "text": " send it back for B on Q0,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 326.6,
+      "end": 327.40000000000003,
+      "text": " now see A, B, A came,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 327.6,
+      "end": 330.40000000000003,
+      "text": " A, B, A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 330.6,
+      "end": 333.40000000000003,
+      "text": " A, B, A, A, B, A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 333.6,
+      "end": 336.40000000000003,
+      "text": " you can accept A, B, A as much as you want,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 336.6,
+      "end": 339.40000000000003,
+      "text": " so this way you can design the DFA,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 339.6,
+      "end": 341.40000000000003,
+      "text": " for which type of language?"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 341.6,
+      "end": 345.40000000000003,
+      "text": " In which all the strings must end with A,"
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 345.6,
+      "end": 348.40000000000003,
+      "text": " so this is how we have to design the DFA."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 348.6,
+      "end": 349.40000000000003,
+      "text": " Thank you."
+    },
+    {
+      "number": "Lec-8",
+      "title": "DFA Example 2 DFA of language with all strings end with a 480P",
+      "start": 349.6,
+      "end": 350.40000000000003,
+      "text": " Thank you."
+    }
+  ],
+  "text": " Hello friends, Welcome to GATE Smashers. Next example is construct a DFA which accept a language of all strings end with A. In last video we have discussed about containing A. In this video we are discussing how to construct a DFA which will accept all the strings which must end with A. So what is your first step? First step is you have to write the language. And what is a language? Language is a collection of string. So here in end with A which will be the minimum string? Although minimum string is epsilon but in epsilon A is not coming anywhere. Means we have to write only what should be end with A. So what will be your minimum? A. Obviously keep on increasing A, A, A, A like this. Apart from this what else can come? B, A can come? Yes. See in B, A, A is coming in last. So yes B, A, B, A, B, A can come like this. A, B, A. Yes this is also correct. Because in this also A is coming in last. Can A, B come? A, B, A, B, A can come like this? No. This cannot come because what is coming in last? B is coming and should be end with A. So means this string should not come in this. So first of all you write the language. Means which all strings should come in this? So this will be the language we will get. And which is this? It is the infinite language which is being made here. So now we will design its DFA. In end with A, first of all when we design DFA, then you have to design for minimum to minimum string. So the first initial state or starting state which we have will be Q0. And on Q0 when I, A alphabet, we have alphabet in which question? We have two alphabet A and B. So where is Q0 going to A? It is going to Q1. And what is Q1 for me? Final state. And see A is, means single A came. So which was the minimum string of yours? Single A. So as soon as single A comes, what we did? We made it reach the final state. And here if I make its loop, if I make loop of A here, then not single A, multiple A can also come. But first of all I have to get it accepted for minimum string. So what is minimum string? Single A. So if you make loop, then it is not single A, how many ever A can come, so that means from Q0, if you apply A symbol, apply A alphabet, then you will reach Q1. And what is Q1 for me? Final state. Now what you have to do? Filling the blanks. What is filling the blanks? DFA is not yet completed because Q0 is going to A. Where is it going to B? You have to make it on B also. So what is the logic to make it on B? All the strings we have, A should come in the end. So can B come before A? Yes, B can come before A. Because we have already discussed that strings like B, A, B, A can come. So should A come before A? No, B can come before A as much as you want, A should come in the last. So what you do? Make B's self loop. Why did I make self loop? Simple logic, A should come in the last, so can A come before A? 2 can come, 1000, 10000, whatever can come, then you make its self loop. Neither do we have to put it in any trap state, nor put it in any end state. Make it a simple loop. So this is going here for B and transition is here for A. Look at Q1, we have not made a transition anywhere for A and B. So where should Q1 go on A? According to you, where should it go on A? Simple logic, end with A. What does end with A mean? If my symbol is A in the last, what should come after A? If A comes after A, multiple A comes, then is there any problem? No, if it will be in the last, then it is A only, end with A. Now if I have A here, if another A comes after this, as many A as you want, there is no problem, because A should be in the last, so its logic is simple, make self loop on Q1A, that's it. On B, if I put it in the trap state, I put it in the trap state, then what is the problem? What can be the problem? If I get a string like this, A, B, A, A, B, A, so we had discussed that A, B, A should be accepted, because A, B, A ends with A. But if I run it here, starting with Q0, I ran A from Q0, reached Q1, B came on Q1, as soon as B came, I reached Q2, now where will I go as soon as next A comes? Obviously, the trap state always goes on its own, so you will get stuck on Q2 only, you will get stuck on Q2 only because you made a trap, so there is no need to make a trap here, because A, B, A type of string should also be accepted, so what to do to accept this? To accept this, you don't have to make a trap state, what you do is, send it back for B, send it back for B on Q0, now see A, B, A came, A, B, A, A, B, A, A, B, A, you can accept A, B, A as much as you want, so this way you can design the DFA, for which type of language? In which all the strings must end with A, so this is how we have to design the DFA. Thank you. Thank you."
+}

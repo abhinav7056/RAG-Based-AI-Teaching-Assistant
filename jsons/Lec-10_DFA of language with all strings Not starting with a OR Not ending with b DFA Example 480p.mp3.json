@@ -1,0 +1,1328 @@
+{
+  "chunks": [
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 0.0,
+      "end": 3.8000000000000003,
+      "text": " Hello friends, Welcome to Grid Smashers. Next example is"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 4.0,
+      "end": 8.8,
+      "text": " Constructor DFA which accept a language of all strings"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 9.0,
+      "end": 12.8,
+      "text": " not starting with A or not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 13.0,
+      "end": 17.8,
+      "text": " In last video we discussed that containing A or at least A,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 18.0,
+      "end": 21.8,
+      "text": " starting with A, ending with A, starting with A and ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 22.0,
+      "end": 25.8,
+      "text": " we discussed these type of questions. But in this video"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 25.8,
+      "end": 30.6,
+      "text": " not starting with A and not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 30.8,
+      "end": 32.6,
+      "text": " Means first of all if we write its language,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 32.8,
+      "end": 35.6,
+      "text": " then which all will come in the language,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 35.8,
+      "end": 38.6,
+      "text": " not starting with A and not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 38.8,
+      "end": 43.6,
+      "text": " So see if I talk about lambda or if I talk about epsilon means null,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 43.8,
+      "end": 48.6,
+      "text": " so see lambda or null will also be accepted in this."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 48.8,
+      "end": 53.6,
+      "text": " Because neither it is starting with A nor it is ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 53.6,
+      "end": 58.4,
+      "text": " Apart from this if we talk about only A or only B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 58.6,
+      "end": 63.400000000000006,
+      "text": " if I talk about BA, means you have multiple strings here,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 63.6,
+      "end": 67.4,
+      "text": " but I will tell you that whenever you get question with NOT,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 67.6,
+      "end": 70.4,
+      "text": " means not starting with this or not ending with this,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 70.6,
+      "end": 75.4,
+      "text": " then you do it in a compliment way."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 75.6,
+      "end": 78.4,
+      "text": " Compliment means you take out its compliment"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 78.6,
+      "end": 83.4,
+      "text": " or if I talk in a simple way, then you use D Morgan theorem here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 83.6,
+      "end": 85.39999999999999,
+      "text": " What does D Morgan theorem say?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 85.6,
+      "end": 88.39999999999999,
+      "text": " D Morgan theorem is A union B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 88.6,
+      "end": 91.39999999999999,
+      "text": " if I take compliment then what will it become?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 91.6,
+      "end": 95.39999999999999,
+      "text": " A compliment intersection, union's compliment intersection,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 95.6,
+      "end": 98.39999999999999,
+      "text": " intersection's compliment is union."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 98.6,
+      "end": 101.39999999999999,
+      "text": " So A compliment intersection B compliment."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 101.6,
+      "end": 104.39999999999999,
+      "text": " So in this way we will use D Morgan here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 104.6,
+      "end": 107.39999999999999,
+      "text": " We have NOT starting with A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 107.6,
+      "end": 112.39999999999999,
+      "text": " If I consider NOT starting with A as A,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 112.4,
+      "end": 116.2,
+      "text": " NOT starting with A, let's suppose it is A statement,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 116.4,
+      "end": 118.2,
+      "text": " NOT ending with B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 118.4,
+      "end": 123.2,
+      "text": " let's suppose I consider this whole statement as B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 123.4,
+      "end": 125.2,
+      "text": " so this becomes my B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 125.4,
+      "end": 129.20000000000002,
+      "text": " NOT starting with A means A, NOT ending with B means B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 129.4,
+      "end": 133.20000000000002,
+      "text": " And what is in between? OR, what do we write OR? Union."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 133.4,
+      "end": 134.20000000000002,
+      "text": " That's it."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 134.4,
+      "end": 138.20000000000002,
+      "text": " So here if I take its compliment, then its compliment will be equal to"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 139.0,
+      "end": 142.0,
+      "text": " A compliment intersection B compliment."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 142.2,
+      "end": 144.0,
+      "text": " What does A compliment mean?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 144.2,
+      "end": 146.0,
+      "text": " A means NOT starting with A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 146.2,
+      "end": 148.0,
+      "text": " So what will be its compliment?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 148.2,
+      "end": 150.0,
+      "text": " Starting with A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 150.2,
+      "end": 152.0,
+      "text": " What is its compliment?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 152.2,
+      "end": 155.0,
+      "text": " Starting with A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 156.2,
+      "end": 158.0,
+      "text": " What is the compliment of union?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 158.2,
+      "end": 159.0,
+      "text": " Intersection."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 159.2,
+      "end": 161.0,
+      "text": " What is the meaning of union? OR."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 161.2,
+      "end": 163.0,
+      "text": " So what is the meaning of intersection? AND."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 163.2,
+      "end": 164.0,
+      "text": " Next step B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 164.2,
+      "end": 166.0,
+      "text": " B means we took B statement,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 166.0,
+      "end": 168.8,
+      "text": " we took this statement NOT ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 169.0,
+      "end": 170.8,
+      "text": " So if I take B's compliment,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 171.0,
+      "end": 172.8,
+      "text": " then what is B's compliment? NOT is removed from here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 173.0,
+      "end": 176.8,
+      "text": " That means you can say ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 177.0,
+      "end": 178.8,
+      "text": " So see what is the whole statement we have?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 179.0,
+      "end": 181.8,
+      "text": " Starting with A and ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 182.0,
+      "end": 183.8,
+      "text": " Which we discussed in the last video"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 184.0,
+      "end": 185.8,
+      "text": " that how we design DFA"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 186.0,
+      "end": 188.8,
+      "text": " which is accepting all strings,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 189.0,
+      "end": 191.8,
+      "text": " in which starting with A should be there and ending with B should be there."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 192.0,
+      "end": 193.8,
+      "text": " So we designed in the last video,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 194.0,
+      "end": 194.8,
+      "text": " so I am making it directly here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 194.8,
+      "end": 196.60000000000002,
+      "text": " I have starting state of Q node."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 197.8,
+      "end": 200.60000000000002,
+      "text": " We went to Q1 on A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 200.8,
+      "end": 203.60000000000002,
+      "text": " and we went to Q2 on B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 203.8,
+      "end": 205.60000000000002,
+      "text": " And what was Q2?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 205.8,
+      "end": 206.60000000000002,
+      "text": " It was my final state."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 206.8,
+      "end": 208.60000000000002,
+      "text": " If you have not checked this video,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 208.8,
+      "end": 209.60000000000002,
+      "text": " then do check it once."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 209.8,
+      "end": 211.60000000000002,
+      "text": " Its link is given in the description box."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 211.8,
+      "end": 214.60000000000002,
+      "text": " How will we design starting with A and ending with B?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 214.8,
+      "end": 216.60000000000002,
+      "text": " I am using it directly here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 216.8,
+      "end": 219.60000000000002,
+      "text": " A is looping here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 219.8,
+      "end": 221.60000000000002,
+      "text": " B is looping here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 221.6,
+      "end": 222.4,
+      "text": " Here loop is being made."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 222.6,
+      "end": 225.4,
+      "text": " And it is coming back for A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 225.6,
+      "end": 230.4,
+      "text": " And here for B we put it in the trap."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 230.6,
+      "end": 233.4,
+      "text": " So this DFA will become"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 233.6,
+      "end": 235.4,
+      "text": " starting with A and ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 235.6,
+      "end": 237.4,
+      "text": " So see it is for A, it is for B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 237.6,
+      "end": 239.4,
+      "text": " this is for A, this is for B,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 239.6,
+      "end": 240.4,
+      "text": " this is for B and this is for A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 240.6,
+      "end": 243.4,
+      "text": " So this is a starting with A and ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 243.6,
+      "end": 245.4,
+      "text": " But I don't want to make this"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 245.6,
+      "end": 246.4,
+      "text": " starting with A and ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 246.6,
+      "end": 248.4,
+      "text": " I want to make NOT starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 248.6,
+      "end": 250.4,
+      "text": " and NOT ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 250.4,
+      "end": 252.20000000000002,
+      "text": " So what we have to do here is"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 252.4,
+      "end": 253.20000000000002,
+      "text": " take its complement."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 253.4,
+      "end": 255.20000000000002,
+      "text": " Because if you take its complement"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 255.4,
+      "end": 256.2,
+      "text": " then it will come."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 256.4,
+      "end": 258.2,
+      "text": " And if you take its complement"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 258.4,
+      "end": 259.2,
+      "text": " then it will come."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 259.4,
+      "end": 261.2,
+      "text": " So obviously these two are vice versa."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 261.4,
+      "end": 263.2,
+      "text": " So if you want to take its complement"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 263.4,
+      "end": 265.2,
+      "text": " then how do we take DFA's complement?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 265.4,
+      "end": 268.2,
+      "text": " Taking DFA's complement is a very simple method."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 268.4,
+      "end": 270.2,
+      "text": " The final states,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 270.4,
+      "end": 273.2,
+      "text": " all the final states,"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 273.4,
+      "end": 275.2,
+      "text": " you make it non-final"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 275.4,
+      "end": 278.2,
+      "text": " and all the non-final states"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 279.0,
+      "end": 282.0,
+      "text": " you make them final states."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 282.2,
+      "end": 285.0,
+      "text": " So see here which are the non-final?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 285.2,
+      "end": 288.0,
+      "text": " Q0, so you make Q0 final."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 288.2,
+      "end": 291.0,
+      "text": " Q1 is non-final here"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 291.2,
+      "end": 293.0,
+      "text": " so you make it final."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 293.2,
+      "end": 296.0,
+      "text": " Q2 was final state here"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 296.2,
+      "end": 299.0,
+      "text": " so I make it non-final here"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 299.2,
+      "end": 302.0,
+      "text": " so this became my non-final state"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 302.2,
+      "end": 304.0,
+      "text": " that is Q2."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 304.2,
+      "end": 307.0,
+      "text": " And this was my trap state Q3"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 307.0,
+      "end": 308.8,
+      "text": " and this was also non-final."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 309.0,
+      "end": 311.8,
+      "text": " So now make this final state."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 312.0,
+      "end": 313.8,
+      "text": " So see, not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 314.0,
+      "end": 315.8,
+      "text": " and not ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 316.0,
+      "end": 316.8,
+      "text": " how many final states were made?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 317.0,
+      "end": 317.8,
+      "text": " 1, 2 and 3."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 318.0,
+      "end": 319.8,
+      "text": " And note this point"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 320.0,
+      "end": 321.8,
+      "text": " all the questions in which we take complement"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 322.0,
+      "end": 323.8,
+      "text": " while taking complement"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 324.0,
+      "end": 325.8,
+      "text": " our number of final states"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 326.0,
+      "end": 327.8,
+      "text": " increases more"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 328.0,
+      "end": 328.8,
+      "text": " as compared to the normal case."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 329.0,
+      "end": 330.8,
+      "text": " Because in normal case"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 331.0,
+      "end": 331.8,
+      "text": " like we have done earlier"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 332.0,
+      "end": 333.8,
+      "text": " in those we had to make final state 1."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 334.0,
+      "end": 335.8,
+      "text": " So now this became"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 335.8,
+      "end": 337.6,
+      "text": " not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 337.8,
+      "end": 339.6,
+      "text": " and not ending with B's DFA."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 339.8,
+      "end": 341.6,
+      "text": " So see, only epsilon comes"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 341.8,
+      "end": 343.6,
+      "text": " so will it be accepted? Yes."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 343.8,
+      "end": 345.6,
+      "text": " Because this is my starting state"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 345.8,
+      "end": 347.6,
+      "text": " so in starting if you don't give A, B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 347.8,
+      "end": 349.6,
+      "text": " or anything, what is epsilon doing?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 349.8,
+      "end": 350.6,
+      "text": " It is accepting."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 350.8,
+      "end": 352.6,
+      "text": " Will A be accepted alone?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 352.8,
+      "end": 353.6,
+      "text": " Yes, A will be accepted alone."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 353.8,
+      "end": 355.6,
+      "text": " Why is A being accepted alone?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 355.8,
+      "end": 356.6,
+      "text": " Not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 356.8,
+      "end": 358.6,
+      "text": " and not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 358.8,
+      "end": 360.6,
+      "text": " So this is starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 360.8,
+      "end": 362.6,
+      "text": " but in between there is more"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 362.8,
+      "end": 363.6,
+      "text": " not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 363.8,
+      "end": 365.6,
+      "text": " Is this true? Yes, this is true"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 365.8,
+      "end": 367.6,
+      "text": " not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 367.8,
+      "end": 368.6,
+      "text": " So see, simple here"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 368.8,
+      "end": 370.6,
+      "text": " true or false?"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 370.8,
+      "end": 372.6,
+      "text": " Answer will be obviously true."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 372.8,
+      "end": 374.6,
+      "text": " Means you have to check a simple method"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 374.8,
+      "end": 376.6,
+      "text": " that if you take A alone"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 376.8,
+      "end": 377.6,
+      "text": " then not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 377.8,
+      "end": 378.6,
+      "text": " this is false"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 378.8,
+      "end": 379.6,
+      "text": " but this is true"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 379.8,
+      "end": 380.6,
+      "text": " not ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 380.8,
+      "end": 382.6,
+      "text": " so obviously it is not ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 382.8,
+      "end": 384.6,
+      "text": " If I take B alone"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 384.8,
+      "end": 385.6,
+      "text": " this will also be accepted."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 385.8,
+      "end": 387.6,
+      "text": " Should it be? Yes, obviously it should be."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 387.8,
+      "end": 389.6,
+      "text": " Why? Not starting with A."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 389.8,
+      "end": 391.6,
+      "text": " See B is not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 391.8,
+      "end": 393.6,
+      "text": " and in between there is more"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 393.8,
+      "end": 395.6,
+      "text": " so don't check next part"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 395.8,
+      "end": 397.6,
+      "text": " if it is true in one part"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 397.8,
+      "end": 399.6,
+      "text": " then this string will be accepted."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 399.8,
+      "end": 401.6,
+      "text": " Then if I talk about AB"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 401.8,
+      "end": 403.6,
+      "text": " not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 403.8,
+      "end": 405.6,
+      "text": " and not ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 405.8,
+      "end": 407.6,
+      "text": " so see if you take AB"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 407.8,
+      "end": 409.6,
+      "text": " AB will not be accepted here."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 409.8,
+      "end": 411.6,
+      "text": " Why? Because it is starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 411.8,
+      "end": 413.6,
+      "text": " and ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 413.8,
+      "end": 416.6,
+      "text": " so see AB is not accepted here"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 416.8,
+      "end": 418.6,
+      "text": " so means my DFA is working properly"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 418.8,
+      "end": 420.6,
+      "text": " and apart from this you can take any"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 420.8,
+      "end": 422.6,
+      "text": " B, A if you take"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 422.8,
+      "end": 423.6,
+      "text": " then see this is also accepting"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 423.8,
+      "end": 424.6,
+      "text": " not starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 424.6,
+      "end": 425.40000000000003,
+      "text": " and not ending with B"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 425.6,
+      "end": 428.40000000000003,
+      "text": " so yes all the strings will be accepted"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 428.6,
+      "end": 429.40000000000003,
+      "text": " except starting with A"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 429.6,
+      "end": 430.40000000000003,
+      "text": " and ending with B."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 430.6,
+      "end": 431.40000000000003,
+      "text": " So all the questions"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 431.6,
+      "end": 433.40000000000003,
+      "text": " in which there is a NOT case"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 433.6,
+      "end": 435.40000000000003,
+      "text": " you make it a positive case first"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 435.6,
+      "end": 436.40000000000003,
+      "text": " and then take the compliment"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 436.6,
+      "end": 438.40000000000003,
+      "text": " method of compliment is very simple"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 438.6,
+      "end": 440.40000000000003,
+      "text": " final to non-final"
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 440.6,
+      "end": 441.40000000000003,
+      "text": " non-final to final."
+    },
+    {
+      "number": "Lec-10",
+      "title": "DFA of language with all strings Not starting with a OR Not ending with b DFA Example 480p",
+      "start": 441.6,
+      "end": 442.40000000000003,
+      "text": " Thank you."
+    }
+  ],
+  "text": " Hello friends, Welcome to Grid Smashers. Next example is Constructor DFA which accept a language of all strings not starting with A or not ending with B. In last video we discussed that containing A or at least A, starting with A, ending with A, starting with A and ending with B we discussed these type of questions. But in this video not starting with A and not ending with B. Means first of all if we write its language, then which all will come in the language, not starting with A and not ending with B. So see if I talk about lambda or if I talk about epsilon means null, so see lambda or null will also be accepted in this. Because neither it is starting with A nor it is ending with B. Apart from this if we talk about only A or only B, if I talk about BA, means you have multiple strings here, but I will tell you that whenever you get question with NOT, means not starting with this or not ending with this, then you do it in a compliment way. Compliment means you take out its compliment or if I talk in a simple way, then you use D Morgan theorem here. What does D Morgan theorem say? D Morgan theorem is A union B, if I take compliment then what will it become? A compliment intersection, union's compliment intersection, intersection's compliment is union. So A compliment intersection B compliment. So in this way we will use D Morgan here. We have NOT starting with A. If I consider NOT starting with A as A, NOT starting with A, let's suppose it is A statement, NOT ending with B, let's suppose I consider this whole statement as B, so this becomes my B. NOT starting with A means A, NOT ending with B means B. And what is in between? OR, what do we write OR? Union. That's it. So here if I take its compliment, then its compliment will be equal to A compliment intersection B compliment. What does A compliment mean? A means NOT starting with A. So what will be its compliment? Starting with A. What is its compliment? Starting with A. What is the compliment of union? Intersection. What is the meaning of union? OR. So what is the meaning of intersection? AND. Next step B. B means we took B statement, we took this statement NOT ending with B. So if I take B's compliment, then what is B's compliment? NOT is removed from here. That means you can say ending with B. So see what is the whole statement we have? Starting with A and ending with B. Which we discussed in the last video that how we design DFA which is accepting all strings, in which starting with A should be there and ending with B should be there. So we designed in the last video, so I am making it directly here. I have starting state of Q node. We went to Q1 on A and we went to Q2 on B. And what was Q2? It was my final state. If you have not checked this video, then do check it once. Its link is given in the description box. How will we design starting with A and ending with B? I am using it directly here. A is looping here. B is looping here. Here loop is being made. And it is coming back for A. And here for B we put it in the trap. So this DFA will become starting with A and ending with B. So see it is for A, it is for B, this is for A, this is for B, this is for B and this is for A. So this is a starting with A and ending with B. But I don't want to make this starting with A and ending with B. I want to make NOT starting with A and NOT ending with B. So what we have to do here is take its complement. Because if you take its complement then it will come. And if you take its complement then it will come. So obviously these two are vice versa. So if you want to take its complement then how do we take DFA's complement? Taking DFA's complement is a very simple method. The final states, all the final states, you make it non-final and all the non-final states you make them final states. So see here which are the non-final? Q0, so you make Q0 final. Q1 is non-final here so you make it final. Q2 was final state here so I make it non-final here so this became my non-final state that is Q2. And this was my trap state Q3 and this was also non-final. So now make this final state. So see, not starting with A and not ending with B how many final states were made? 1, 2 and 3. And note this point all the questions in which we take complement while taking complement our number of final states increases more as compared to the normal case. Because in normal case like we have done earlier in those we had to make final state 1. So now this became not starting with A and not ending with B's DFA. So see, only epsilon comes so will it be accepted? Yes. Because this is my starting state so in starting if you don't give A, B or anything, what is epsilon doing? It is accepting. Will A be accepted alone? Yes, A will be accepted alone. Why is A being accepted alone? Not starting with A and not ending with B. So this is starting with A but in between there is more not ending with B. Is this true? Yes, this is true not ending with B. So see, simple here true or false? Answer will be obviously true. Means you have to check a simple method that if you take A alone then not starting with A this is false but this is true not ending with B so obviously it is not ending with B. If I take B alone this will also be accepted. Should it be? Yes, obviously it should be. Why? Not starting with A. See B is not starting with A and in between there is more so don't check next part if it is true in one part then this string will be accepted. Then if I talk about AB not starting with A and not ending with B so see if you take AB AB will not be accepted here. Why? Because it is starting with A and ending with B so see AB is not accepted here so means my DFA is working properly and apart from this you can take any B, A if you take then see this is also accepting not starting with A and not ending with B so yes all the strings will be accepted except starting with A and ending with B. So all the questions in which there is a NOT case you make it a positive case first and then take the compliment method of compliment is very simple final to non-final non-final to final. Thank you."
+}

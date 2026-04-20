@@ -1,0 +1,467 @@
+{
+  "chunks": [
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 0.0,
+      "end": 2.8000000000000003,
+      "text": " Hello friends, welcome to Gate Smashers."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 3.0,
+      "end": 7.8,
+      "text": " In this video I am going to explain what is Automata and what is the usage of Automata in TOC."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 8.0,
+      "end": 9.8,
+      "text": " So let's start the video."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 10.0,
+      "end": 14.8,
+      "text": " First of all, before explaining Automata, I want to tell you that in the last video"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 15.0,
+      "end": 19.8,
+      "text": " we discussed about language and all the videos that we are making in Automata,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 20.0,
+      "end": 22.8,
+      "text": " all the videos that we are making in TOC, all these videos are linked."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 23.0,
+      "end": 26.8,
+      "text": " First of all, you must check that video because if your language is clear,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 26.8,
+      "end": 33.6,
+      "text": " then only you will understand the next video because I have made that first video on language."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 33.8,
+      "end": 38.6,
+      "text": " So in language we discussed that it can be in two ways,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 38.8,
+      "end": 42.6,
+      "text": " either the language will be finite or infinite."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 42.8,
+      "end": 45.6,
+      "text": " What is the meaning of finite and infinite?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 45.8,
+      "end": 47.6,
+      "text": " Language is a collection of strings."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 47.8,
+      "end": 51.6,
+      "text": " Now if I have finite means fixed number of strings in it,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 51.8,
+      "end": 54.6,
+      "text": " then it will become finite and if it has infinite means,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 54.6,
+      "end": 60.4,
+      "text": " you can say if infinite number of strings are being made, then that language will become infinite."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 60.6,
+      "end": 67.4,
+      "text": " How? Let's suppose I have alphabet A and B and I want to make a language"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 67.6,
+      "end": 73.4,
+      "text": " and in that language all the strings length should be 2,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 73.6,
+      "end": 76.4,
+      "text": " means all those strings whose length is 2."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 76.6,
+      "end": 79.4,
+      "text": " So how will you make? We have alphabet already defined A and B."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 79.4,
+      "end": 86.2,
+      "text": " So you can make A and A, A B, B A, B B."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 86.4,
+      "end": 91.2,
+      "text": " So these four are possible, so see four means fixed, so this will become your finite language."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 91.4,
+      "end": 94.2,
+      "text": " Similarly, let's suppose if we talk about infinite language,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 94.4,
+      "end": 100.2,
+      "text": " so in infinite let's suppose that all those strings which should have at least one A,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 100.4,
+      "end": 104.2,
+      "text": " means I have to make that language which contains all the strings,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 104.2,
+      "end": 109.0,
+      "text": " means all the strings should have at least one A in it, means at least one A."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 109.2,
+      "end": 112.0,
+      "text": " Now what will you do to make at least one A?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 112.2,
+      "end": 119.0,
+      "text": " See A, A A, this is also possible, see what is coming inside all of them."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 119.2,
+      "end": 125.0,
+      "text": " What does at least one A mean? At least one A should be there, so see at least one A is there."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 125.2,
+      "end": 131.0,
+      "text": " Apart from this let's suppose A B, A B, A B, if you grow like this,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 131.0,
+      "end": 135.8,
+      "text": " see at least one A is there in this also, similarly you can make B A."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 137.0,
+      "end": 140.8,
+      "text": " So what does it mean to say? This language will become infinite."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 141.0,
+      "end": 146.8,
+      "text": " Now language can be finite or infinite. So what can be asked next type of question?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 147.0,
+      "end": 153.8,
+      "text": " Next type of question is that if I give you a string, let's suppose A B B A,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 154.0,
+      "end": 160.8,
+      "text": " anything A B B A, so I have to find out whether this string is part of language or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 161.0,
+      "end": 164.8,
+      "text": " Simple question is, let's suppose you wrote a sentence in English,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 165.0,
+      "end": 169.8,
+      "text": " that sentence is considered in language or not, is it part of language or not,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 170.0,
+      "end": 175.8,
+      "text": " to find out this how will you find out that whether this string is part of this language or not"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 176.0,
+      "end": 178.8,
+      "text": " or whether this string comes in this language or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 179.0,
+      "end": 184.8,
+      "text": " For this either you have one method, you store that language in memory,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 185.0,
+      "end": 187.8,
+      "text": " means whatever strings are coming in that language,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 187.8,
+      "end": 195.60000000000002,
+      "text": " you store all the strings in memory and then check one by one whether it is equal to this or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 195.8,
+      "end": 202.60000000000002,
+      "text": " And similarly you can do in infinite also, in infinite you store all the strings in memory"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 202.8,
+      "end": 206.60000000000002,
+      "text": " and then match one by one whether it is equal to this or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 206.8,
+      "end": 213.60000000000002,
+      "text": " So see in case of finite this is possible, in case of finite obviously I have fixed number of strings"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 213.6,
+      "end": 218.4,
+      "text": " so you store that in memory and match one by one whether it is equal to this or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 218.6,
+      "end": 221.4,
+      "text": " But how is it possible in case of infinite?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 221.6,
+      "end": 226.4,
+      "text": " There are infinite number of strings and how will you store that first?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 226.6,
+      "end": 231.4,
+      "text": " Because you have infinite number of strings, so you can't store infinite in memory,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 231.6,
+      "end": 234.4,
+      "text": " so obviously how will you match?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 234.6,
+      "end": 239.4,
+      "text": " So to solve this problem we use concept of automata."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 239.6,
+      "end": 241.4,
+      "text": " So what is automata?"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 241.4,
+      "end": 249.20000000000002,
+      "text": " Automata is a mathematical model or you can say machine which helps to solve this problem."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 249.4,
+      "end": 254.20000000000002,
+      "text": " And what is the problem? Whether a string is a part of language or not."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 254.4,
+      "end": 262.2,
+      "text": " Means whatever string you have, whether that string comes in the language or not,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 262.4,
+      "end": 268.2,
+      "text": " we use this type of problem to solve this machine, this model which is called automata."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 268.2,
+      "end": 273.0,
+      "text": " And in TOC the main thing we get is first finite automata,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 273.2,
+      "end": 277.0,
+      "text": " after that we get PDA that is push down automata,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 277.2,
+      "end": 284.0,
+      "text": " then we get LBA, linear bound automata and then we get Turing machine."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 284.2,
+      "end": 288.0,
+      "text": " So these four are the most important topic in your TOC,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 288.2,
+      "end": 291.0,
+      "text": " so we will discuss one by one in the next video."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 291.2,
+      "end": 294.0,
+      "text": " So in this video it will be clear to you that what is the concept of automata."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 294.0,
+      "end": 296.8,
+      "text": " If anyone asks you what is automata,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 297.0,
+      "end": 300.8,
+      "text": " so you know what is automata, it is a mathematical model, it is an abstract model."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 301.0,
+      "end": 304.8,
+      "text": " But what is its use? You will know its use now."
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 305.0,
+      "end": 311.8,
+      "text": " Means if you want to check whether this string belongs in this language or not,"
+    },
+    {
+      "number": "Lec-3",
+      "title": "What is Automata in TOC Theory of Computation 480p",
+      "start": 312.0,
+      "end": 315.8,
+      "text": " for that who will help you? Machine that is automata. Thank you."
+    }
+  ],
+  "text": " Hello friends, welcome to Gate Smashers. In this video I am going to explain what is Automata and what is the usage of Automata in TOC. So let's start the video. First of all, before explaining Automata, I want to tell you that in the last video we discussed about language and all the videos that we are making in Automata, all the videos that we are making in TOC, all these videos are linked. First of all, you must check that video because if your language is clear, then only you will understand the next video because I have made that first video on language. So in language we discussed that it can be in two ways, either the language will be finite or infinite. What is the meaning of finite and infinite? Language is a collection of strings. Now if I have finite means fixed number of strings in it, then it will become finite and if it has infinite means, you can say if infinite number of strings are being made, then that language will become infinite. How? Let's suppose I have alphabet A and B and I want to make a language and in that language all the strings length should be 2, means all those strings whose length is 2. So how will you make? We have alphabet already defined A and B. So you can make A and A, A B, B A, B B. So these four are possible, so see four means fixed, so this will become your finite language. Similarly, let's suppose if we talk about infinite language, so in infinite let's suppose that all those strings which should have at least one A, means I have to make that language which contains all the strings, means all the strings should have at least one A in it, means at least one A. Now what will you do to make at least one A? See A, A A, this is also possible, see what is coming inside all of them. What does at least one A mean? At least one A should be there, so see at least one A is there. Apart from this let's suppose A B, A B, A B, if you grow like this, see at least one A is there in this also, similarly you can make B A. So what does it mean to say? This language will become infinite. Now language can be finite or infinite. So what can be asked next type of question? Next type of question is that if I give you a string, let's suppose A B B A, anything A B B A, so I have to find out whether this string is part of language or not. Simple question is, let's suppose you wrote a sentence in English, that sentence is considered in language or not, is it part of language or not, to find out this how will you find out that whether this string is part of this language or not or whether this string comes in this language or not. For this either you have one method, you store that language in memory, means whatever strings are coming in that language, you store all the strings in memory and then check one by one whether it is equal to this or not. And similarly you can do in infinite also, in infinite you store all the strings in memory and then match one by one whether it is equal to this or not. So see in case of finite this is possible, in case of finite obviously I have fixed number of strings so you store that in memory and match one by one whether it is equal to this or not. But how is it possible in case of infinite? There are infinite number of strings and how will you store that first? Because you have infinite number of strings, so you can't store infinite in memory, so obviously how will you match? So to solve this problem we use concept of automata. So what is automata? Automata is a mathematical model or you can say machine which helps to solve this problem. And what is the problem? Whether a string is a part of language or not. Means whatever string you have, whether that string comes in the language or not, we use this type of problem to solve this machine, this model which is called automata. And in TOC the main thing we get is first finite automata, after that we get PDA that is push down automata, then we get LBA, linear bound automata and then we get Turing machine. So these four are the most important topic in your TOC, so we will discuss one by one in the next video. So in this video it will be clear to you that what is the concept of automata. If anyone asks you what is automata, so you know what is automata, it is a mathematical model, it is an abstract model. But what is its use? You will know its use now. Means if you want to check whether this string belongs in this language or not, for that who will help you? Machine that is automata. Thank you."
+}

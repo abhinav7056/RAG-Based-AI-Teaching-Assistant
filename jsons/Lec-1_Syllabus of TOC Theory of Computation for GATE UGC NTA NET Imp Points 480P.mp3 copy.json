@@ -1,0 +1,733 @@
+{
+    "chunks": [
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 0.0,
+            "end": 2.8000000000000003,
+            "text": " Hello friends, I welcome you to Gate Smashers."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 3.0,
+            "end": 5.8,
+            "text": " In this video I am going to explain syllabus of theory of computation."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 6.0,
+            "end": 11.8,
+            "text": " And I am doing syllabus discussion of TOC based on GATE exam, based on UGCNET exam,"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 12.0,
+            "end": 15.8,
+            "text": " based on other competitive exams in which also there is a portion of computer science."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 16.0,
+            "end": 21.8,
+            "text": " Like there is KVS exam, there is DEE SSSB exam, there is HTET exam or other competitive exams"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 22.0,
+            "end": 23.8,
+            "text": " in which also there is a portion of computer science."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 24.0,
+            "end": 26.8,
+            "text": " So TOC is the preferable course in that."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 26.8,
+            "end": 29.6,
+            "text": " Even if we talk about your college or university level exam,"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 29.8,
+            "end": 32.6,
+            "text": " so there also which all important points you have to do,"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 32.8,
+            "end": 35.6,
+            "text": " which all important topics you have to do,"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 35.8,
+            "end": 39.6,
+            "text": " all these points I am going to discuss in this video."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 39.8,
+            "end": 42.6,
+            "text": " Now see syllabus will be available in many places."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 42.8,
+            "end": 44.6,
+            "text": " But what is the important topic?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 44.8,
+            "end": 47.6,
+            "text": " Which all topics are mandatory for you before exam?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 47.8,
+            "end": 49.6,
+            "text": " Means you have to do it."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 49.8,
+            "end": 52.6,
+            "text": " Which all topics you should focus on the most?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 52.8,
+            "end": 56.6,
+            "text": " Which all topics you can focus on less?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 56.8,
+            "end": 59.599999999999994,
+            "text": " Then also you can get good marks in competitive exams"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 59.8,
+            "end": 62.599999999999994,
+            "text": " even in your college or university level exam."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 62.8,
+            "end": 66.6,
+            "text": " So all these points I am going to discuss in this video."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 66.8,
+            "end": 68.6,
+            "text": " So here I start the syllabus."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 68.8,
+            "end": 71.6,
+            "text": " I have divided the syllabus into 4 portions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 71.8,
+            "end": 74.6,
+            "text": " First portion is regular language and finite automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 74.8,
+            "end": 77.6,
+            "text": " And I will give weightage to this 80%."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 77.8,
+            "end": 83.6,
+            "text": " Yes, maximum weightage is of this topic, that is regular language and finite automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 83.8,
+            "end": 85.6,
+            "text": " I will give you a little overview."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 85.6,
+            "end": 88.39999999999999,
+            "text": " There are 3 main pillars of theory of computation."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 88.6,
+            "end": 92.39999999999999,
+            "text": " Means all discussions in this are on 3 things."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 92.6,
+            "end": 97.39999999999999,
+            "text": " That is language, in which we talk about formal language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 97.6,
+            "end": 103.39999999999999,
+            "text": " Grammar and apart from grammar we talk about automata here."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 103.6,
+            "end": 108.39999999999999,
+            "text": " That is your machine, where we talk about hardware or we talk about machine."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 108.6,
+            "end": 111.39999999999999,
+            "text": " So these are the 3 pillars of automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 112.2,
+            "end": 118.2,
+            "text": " So in all the syllabus of automata you will find topics on language, grammar and automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 118.4,
+            "end": 124.2,
+            "text": " So your first and very important topic is regular language and finite automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 124.4,
+            "end": 127.2,
+            "text": " And how much weightage I have given to this? 80%."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 127.4,
+            "end": 131.20000000000002,
+            "text": " Now the main portions that come in this, like minimization of finite automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 131.4,
+            "end": 135.20000000000002,
+            "text": " Apart from this if we talk here, we have Mealy machine, Moore machine."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 135.4,
+            "end": 140.20000000000002,
+            "text": " And you get most questions on DFA and NFA."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 140.2,
+            "end": 144.0,
+            "text": " Apart from this, there are questions on pumping lemma theorem."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 144.2,
+            "end": 148.0,
+            "text": " This is an important topic, that is regular language and finite automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 148.2,
+            "end": 152.0,
+            "text": " Then I come here, context free language and pushdown automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 152.2,
+            "end": 154.0,
+            "text": " I will give it 10%."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 154.2,
+            "end": 159.0,
+            "text": " Means next important topic is your context free language and pushdown automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 159.2,
+            "end": 164.0,
+            "text": " This will be the language, this is the machine, automata, which accepts this language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 164.2,
+            "end": 168.0,
+            "text": " Although after introduction, after discussing these syllabus,"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 168.0,
+            "end": 173.8,
+            "text": " I will bring videos one by one, in which I will cover all the basic points of TOC."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 174.0,
+            "end": 178.8,
+            "text": " Even from the point of view of competitive exams, even from the point of view of your college or university level exams."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 179.0,
+            "end": 184.8,
+            "text": " But this video will help you a lot, how you have to prepare for the exam."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 185.0,
+            "end": 188.8,
+            "text": " Which topics you have to give the most emphasis on."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 189.0,
+            "end": 192.8,
+            "text": " So here next we come to recursive language and recursive enumerable language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 193.0,
+            "end": 195.8,
+            "text": " And to accept these we have Turing machine."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 195.8,
+            "end": 198.60000000000002,
+            "text": " I will give it 10%."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 198.8,
+            "end": 202.60000000000002,
+            "text": " And here the topics come on theoretical questions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 202.8,
+            "end": 207.60000000000002,
+            "text": " And even if the theoretical question does not come, then what type of questions do you know?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 207.8,
+            "end": 210.60000000000002,
+            "text": " I am going to tell you next here."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 210.8,
+            "end": 213.60000000000002,
+            "text": " Next is Closer Properties and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 213.8,
+            "end": 219.60000000000002,
+            "text": " This is the most important topic, that is Closer Properties and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 219.8,
+            "end": 221.60000000000002,
+            "text": " In which you have a table here."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 221.8,
+            "end": 224.60000000000002,
+            "text": " First of all, I will tell you why is it most important?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 224.6,
+            "end": 230.4,
+            "text": " Because in every exam, every time you will get questions on this."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 230.6,
+            "end": 233.4,
+            "text": " In which we talk, you have to remember the table."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 233.6,
+            "end": 238.4,
+            "text": " Table based on the Closer Property and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 238.6,
+            "end": 241.4,
+            "text": " It is a table of Decidable and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 241.6,
+            "end": 243.4,
+            "text": " And it is not that this is different."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 243.6,
+            "end": 245.4,
+            "text": " You must be thinking that 100% is covered."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 245.6,
+            "end": 247.4,
+            "text": " So what will this come in?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 247.6,
+            "end": 248.4,
+            "text": " This is actually in all."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 248.6,
+            "end": 251.4,
+            "text": " Means in regular language also Closer Property."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 251.6,
+            "end": 254.4,
+            "text": " We also have Closer Property in Context-Free Grammar."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 254.6,
+            "end": 259.4,
+            "text": " In Recursive Recursive Enumerable CSL also we have Closer Properties."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 259.6,
+            "end": 264.4,
+            "text": " And on this Decidable and Undecidable also we have a full-fledged table."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 264.6,
+            "end": 268.4,
+            "text": " On which you will get questions every time."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 268.6,
+            "end": 271.4,
+            "text": " This is the most important topic."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 271.6,
+            "end": 273.4,
+            "text": " There are tables on it, you should know."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 273.6,
+            "end": 276.4,
+            "text": " What questions are possible on them?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 276.6,
+            "end": 279.4,
+            "text": " That is Closer Property and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 279.6,
+            "end": 283.4,
+            "text": " Second I will tell you here that is Identification."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 283.4,
+            "end": 285.2,
+            "text": " Means you will be given a language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 285.4,
+            "end": 290.2,
+            "text": " And you have to identify that this language is regular language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 290.4,
+            "end": 293.2,
+            "text": " It comes in CFL, CSL, Recursive."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 293.4,
+            "end": 296.2,
+            "text": " Which language it comes?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 296.4,
+            "end": 300.2,
+            "text": " So identifying it is the second type of question that comes most."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 300.4,
+            "end": 303.2,
+            "text": " Third type of question comes here."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 303.4,
+            "end": 306.2,
+            "text": " On machine or you can say on Automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 306.4,
+            "end": 309.2,
+            "text": " That this Automata or this machine."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 309.4,
+            "end": 313.2,
+            "text": " Does it accept this particular language or not?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 313.4,
+            "end": 315.2,
+            "text": " Does it accept this particular string or not?"
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 315.4,
+            "end": 318.2,
+            "text": " On this you get the most questions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 318.4,
+            "end": 321.2,
+            "text": " So here first of all I was telling you Closer Property and Undecidability."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 321.4,
+            "end": 324.2,
+            "text": " On which you will definitely get questions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 324.4,
+            "end": 327.2,
+            "text": " Second is on Language Identification."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 327.4,
+            "end": 330.2,
+            "text": " That you have to identify the language."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 330.4,
+            "end": 333.2,
+            "text": " That which language it comes in."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 333.4,
+            "end": 336.2,
+            "text": " And third is on the acceptance of the machine."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 336.4,
+            "end": 338.2,
+            "text": " That which language this machine accepts."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 338.4,
+            "end": 340.2,
+            "text": " Will accept or not."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 340.4,
+            "end": 342.2,
+            "text": " Will hang or will accept it."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 342.2,
+            "end": 344.0,
+            "text": " Means all these questions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 344.2,
+            "end": 348.0,
+            "text": " You get questions on Automata."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 348.2,
+            "end": 351.0,
+            "text": " So this is the main portion of TOC."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 351.2,
+            "end": 354.0,
+            "text": " On which you will get the most questions."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 354.2,
+            "end": 357.0,
+            "text": " So we will cover all these four topics."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 357.2,
+            "end": 359.0,
+            "text": " Slowly I will bring next in each video."
+        },
+        {
+            "number": "Lec-1",
+            "title": "Syllabus of TOC Theory of Computation for GATE UGC NTA NET Imp Points 480P",
+            "start": 359.2,
+            "end": 360.0,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Hello friends, I welcome you to Gate Smashers. In this video I am going to explain syllabus of theory of computation. And I am doing syllabus discussion of TOC based on GATE exam, based on UGCNET exam, based on other competitive exams in which also there is a portion of computer science. Like there is KVS exam, there is DEE SSSB exam, there is HTET exam or other competitive exams in which also there is a portion of computer science. So TOC is the preferable course in that. Even if we talk about your college or university level exam, so there also which all important points you have to do, which all important topics you have to do, all these points I am going to discuss in this video. Now see syllabus will be available in many places. But what is the important topic? Which all topics are mandatory for you before exam? Means you have to do it. Which all topics you should focus on the most? Which all topics you can focus on less? Then also you can get good marks in competitive exams even in your college or university level exam. So all these points I am going to discuss in this video. So here I start the syllabus. I have divided the syllabus into 4 portions. First portion is regular language and finite automata. And I will give weightage to this 80%. Yes, maximum weightage is of this topic, that is regular language and finite automata. I will give you a little overview. There are 3 main pillars of theory of computation. Means all discussions in this are on 3 things. That is language, in which we talk about formal language. Grammar and apart from grammar we talk about automata here. That is your machine, where we talk about hardware or we talk about machine. So these are the 3 pillars of automata. So in all the syllabus of automata you will find topics on language, grammar and automata. So your first and very important topic is regular language and finite automata. And how much weightage I have given to this? 80%. Now the main portions that come in this, like minimization of finite automata. Apart from this if we talk here, we have Mealy machine, Moore machine. And you get most questions on DFA and NFA. Apart from this, there are questions on pumping lemma theorem. This is an important topic, that is regular language and finite automata. Then I come here, context free language and pushdown automata. I will give it 10%. Means next important topic is your context free language and pushdown automata. This will be the language, this is the machine, automata, which accepts this language. Although after introduction, after discussing these syllabus, I will bring videos one by one, in which I will cover all the basic points of TOC. Even from the point of view of competitive exams, even from the point of view of your college or university level exams. But this video will help you a lot, how you have to prepare for the exam. Which topics you have to give the most emphasis on. So here next we come to recursive language and recursive enumerable language. And to accept these we have Turing machine. I will give it 10%. And here the topics come on theoretical questions. And even if the theoretical question does not come, then what type of questions do you know? I am going to tell you next here. Next is Closer Properties and Undecidability. This is the most important topic, that is Closer Properties and Undecidability. In which you have a table here. First of all, I will tell you why is it most important? Because in every exam, every time you will get questions on this. In which we talk, you have to remember the table. Table based on the Closer Property and Undecidability. It is a table of Decidable and Undecidability. And it is not that this is different. You must be thinking that 100% is covered. So what will this come in? This is actually in all. Means in regular language also Closer Property. We also have Closer Property in Context-Free Grammar. In Recursive Recursive Enumerable CSL also we have Closer Properties. And on this Decidable and Undecidable also we have a full-fledged table. On which you will get questions every time. This is the most important topic. There are tables on it, you should know. What questions are possible on them? That is Closer Property and Undecidability. Second I will tell you here that is Identification. Means you will be given a language. And you have to identify that this language is regular language. It comes in CFL, CSL, Recursive. Which language it comes? So identifying it is the second type of question that comes most. Third type of question comes here. On machine or you can say on Automata. That this Automata or this machine. Does it accept this particular language or not? Does it accept this particular string or not? On this you get the most questions. So here first of all I was telling you Closer Property and Undecidability. On which you will definitely get questions. Second is on Language Identification. That you have to identify the language. That which language it comes in. And third is on the acceptance of the machine. That which language this machine accepts. Will accept or not. Will hang or will accept it. Means all these questions. You get questions on Automata. So this is the main portion of TOC. On which you will get the most questions. So we will cover all these four topics. Slowly I will bring next in each video. Thank you."
+}
